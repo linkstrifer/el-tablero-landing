@@ -27,7 +27,7 @@ function Home({ children }) {
           alt="El Tablero Club Café Logof"
         />
       </picture>
-      <div className={styles.content}>{children}</div>
+      {children && <div className={styles.content}>{children}</div>}
     </section>
   )
 }
