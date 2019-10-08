@@ -1,0 +1,63 @@
+export const SOLIDS = {
+  PRIMARY: '#0cb6fb',
+  PRIMARY_2: '#7b70ff',
+  SECONDARY: '#fd988a',
+  TERTIARY: '#b487d2',
+  QUARTER: '#47d1d9',
+  WHITE: '#fff',
+  BLACK: '#000',
+  DARK: '#4c4b5c',
+  MEDIUM: '#9393a2',
+  LIGHT: '#c7c7d4',
+  EXTRA_LIGHT: '#f5f5f8',
+  SUCCESS: '#0cd9fb',
+  ERROR: '#ff0094',
+}
+
+export const SOLIDS_TRANSPARENCIES = {
+  PRIMARY: '',
+  PRIMARY_2: '',
+  SECONDARY: '',
+  TERTIARY: '',
+  QUARTER: '',
+  WHITE: '',
+  BLACK: '',
+  DARK: '',
+  MEDIUM: '',
+  LIGHT: '',
+  EXTRA_LIGHT: '',
+  SUCCESS: '',
+  ERROR: '',
+}
+
+export const GRADIENTS = {
+  PRIMARY: ['#00e4ff', '#4481eb'],
+  PRIMARY_2: '',
+  SECONDARY: ['#f7c598', '#ff8886'],
+  TERTIARY: ['#f9b4bd', '#9573db'],
+  QUARTER: '',
+  WHITE: '',
+  BLACK: '',
+  DARK: '',
+  MEDIUM: '',
+  LIGHT: '',
+  EXTRA_LIGHT: '',
+  SUCCESS: '',
+  ERROR: '',
+}
+
+export const GRADIENTS_TRANSPARENCIES = {
+  PRIMARY: '',
+  PRIMARY_2: '',
+  SECONDARY: '',
+  TERTIARY: '',
+  QUARTER: '',
+  WHITE: '',
+  BLACK: '',
+  DARK: '',
+  MEDIUM: '',
+  LIGHT: '',
+  EXTRA_LIGHT: '',
+  SUCCESS: '',
+  ERROR: '',
+}

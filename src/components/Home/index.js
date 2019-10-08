@@ -1,10 +1,10 @@
 import React from 'react'
 
-import Logo from '../../../../app/app/assets/icon.png'
+import Logo from '../../images/icon.png'
 
 import styles from './styles.module.css'
 
-import { SOLIDS, GRADIENTS } from '../../../../app/app/lib/Colors'
+import { SOLIDS, GRADIENTS } from '../../lib/Colors'
 
 import SEO from '../Seo'
 
