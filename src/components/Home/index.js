@@ -8,7 +8,7 @@ import { SOLIDS, GRADIENTS } from '../../../../app/app/lib/Colors'
 
 import SEO from '../Seo'
 
-function Home() {
+function Home({ children }) {
   return (
     <section
       className={styles.container}
@@ -27,6 +27,7 @@ function Home() {
           alt="El Tablero Club Café Logof"
         />
       </picture>
+      <div className={styles.content}>{children}</div>
     </section>
   )
 }
